@@ -7,7 +7,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class GitprojectOneApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(GitprojectOneApplication.class, args);
+		int x=100;
+        SpringApplication.run(GitprojectOneApplication.class, args);
 	}
 
 }
