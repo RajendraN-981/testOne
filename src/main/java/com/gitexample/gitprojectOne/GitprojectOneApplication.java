@@ -15,7 +15,8 @@ public class GitprojectOneApplication {
 	char ch='x';
 	
 	public static void main(String[] args) {
-		SpringApplication.run(GitprojectOneApplication.class, args);
+		int x=100;
+        SpringApplication.run(GitprojectOneApplication.class, args);
 	}
 
 }
