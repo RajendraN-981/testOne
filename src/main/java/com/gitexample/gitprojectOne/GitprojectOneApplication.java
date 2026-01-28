@@ -10,9 +10,10 @@ public class GitprojectOneApplication {
 	boolean isPresent =false;
 	int y=200;
 	double z=10.3;
-	boolean isPresent =false;
+	//boolean isPresent =false;
 	float m = 10.3f;
 	char ch='x';
+    //I am with you
 	
 	public static void main(String[] args) {
 		SpringApplication.run(GitprojectOneApplication.class, args);
