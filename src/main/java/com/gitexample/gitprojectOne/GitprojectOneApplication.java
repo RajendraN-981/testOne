@@ -12,8 +12,8 @@ public class GitprojectOneApplication {
 	double z=10.3;
 	boolean isPresent =false;
 	float m = 10.3f;
-    boolean isSub=true;
-	
+	char ch='x';
+
 	public static void main(String[] args) {
 		SpringApplication.run(GitprojectOneApplication.class, args);
 	}
