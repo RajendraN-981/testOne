@@ -13,7 +13,7 @@ public class GitprojectOneApplication {
 	boolean isPresent =false;
 	float m = 10.3f;
 	char ch='x';
-
+	
 	public static void main(String[] args) {
 		SpringApplication.run(GitprojectOneApplication.class, args);
 	}
